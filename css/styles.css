@@ -276,7 +276,7 @@ margin-bottom: 8px;
 }
 .ourteam-container-list{
     text-align: center;
-    padding: 32px 0;
+    padding: 32px 0 32px;
 }
 .ourteam-title {
     font-weight: 700;
